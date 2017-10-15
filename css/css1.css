@@ -1,0 +1,12 @@
+/*Name this external file gallery.css*/
+body {
+	background-image: url("../img/witcher.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+
+}
+.row-alt {
+  text-align: center;
+  width: 50%;
+}
